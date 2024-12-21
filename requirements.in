@@ -1,0 +1,5 @@
+# requirements.in
+ollama
+openai
+ipykernel
+tabulate

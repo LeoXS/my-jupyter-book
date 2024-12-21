@@ -1,0 +1,14 @@
+# Jupyter Notebook specific
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb_metadata
+
+# Python
+__pycache__/
+
+# Virtual Environment
+my-venv/
+
+# IDE specific
+.vscode/
+
